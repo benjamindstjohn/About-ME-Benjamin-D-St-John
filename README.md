@@ -8,6 +8,7 @@
   - React.js
   - JavaScript
   - HTML & CSS
+  - Application Programmming Interface (API)
  
 - <b>Project 2</b>
   - ...
