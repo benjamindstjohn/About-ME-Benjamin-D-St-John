@@ -25,7 +25,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://linkedin.com/in/benjamin-st-john
-[youtube]: https://linkedin.com/in/benjamin-st-john
-[instagram]: https://linkedin.com/in/benjamin-st-john
-[linkedin]: https://linkedin.com/in/benjamin-st-john
+[twitter]: https://www.linkedin.com/in/benjamin-st-john-353a85278/
+[youtube]: https://www.linkedin.com/in/benjamin-st-john-353a85278/
+[instagram]: https://www.linkedin.com/in/benjamin-st-john-353a85278/
+[linkedin]: https://www.linkedin.com/in/benjamin-st-john-353a85278/
