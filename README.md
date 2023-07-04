@@ -27,5 +27,5 @@
 
 [twitter]: https://www.linkedin.com/in/benjamin-st-john-353a85278/
 [youtube]: https://www.linkedin.com/in/benjamin-st-john-353a85278/
-[instagram]: https://www.linkedin.com/in/benjamin-st-john-353a85278/
+[instagram]: https://www.instagram.com/benstjohnn/
 [linkedin]: https://www.linkedin.com/in/benjamin-st-john-353a85278/
