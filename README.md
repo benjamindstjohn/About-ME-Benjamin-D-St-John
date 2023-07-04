@@ -3,8 +3,12 @@
 
 <h2>Software Development Projects:</h2>
 
-- <b>Project 1</b>
-  - ...
+- <b>Financial Data & Charting API</b>
+  - Python 3
+  - React.js
+  - JavaScript
+  - HTML & CSS
+ 
 - <b>Project 2</b>
   - ...
 - <b>Project 3</b>
