@@ -44,7 +44,7 @@
 [<img align="left" alt="BenQuant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="BenQuant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://www.linkedin.com/in/benjamin-st-john-353a85278/
+[twitter]: https://www.twitter.com/github/
 [youtube]: https://www.linkedin.com/in/benjamin-st-john-353a85278/
 [instagram]: https://www.instagram.com/benstjohnn/
 [linkedin]: https://www.linkedin.com/in/benjamin-st-john-353a85278/
