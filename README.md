@@ -18,7 +18,7 @@
 <h2>Software Development Projects:</h2>
 
 
-- <b>Financial Data & Charting API Website</b>
+- <b>FinTech Website with Charting & Data APIs (Frontend + Backend)</b>
 
   - Application Programmming Interface (API).
   - Utilized Python libraries for making API data requests.
