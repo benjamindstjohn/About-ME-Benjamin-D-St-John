@@ -1,4 +1,5 @@
-<h1>Benjamin D. St. John<br/><a href="https://github.com/sanctusjack">Software Developer</a>,  <a href="https://www.linkedin.com/in/benjamin-st-john-353a85278/">Engineer, </a> & <a href="https://www.linkedin.com/in/benjamin-st-john-353a85278/">Quantitative Financial Analyst</a></h1>
+<h1>Benjamin D. St. John</h1>
+<h1><a href="https://github.com/sanctusjack">Software Developer</a>,  <a href="https://www.linkedin.com/in/benjamin-st-john-353a85278/">Engineer, </a> & <a href="https://www.linkedin.com/in/benjamin-st-john-353a85278/">Quantitative Financial Analyst</a></h1>
 <b>For all professional and business inquiries, please contact: </b><i>benjaminstjohn1@gmail.com</i>
 
 
