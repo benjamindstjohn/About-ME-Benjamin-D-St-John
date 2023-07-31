@@ -3,7 +3,8 @@
 <p1><b>For all professional and business inquiries, please contact:</b><i> benjaminstjohn1@gmail.com</i></p1>
 <br>
 <br>
-<h2>Programming Languages:</h2>
+<h3>Programming Languages:</h3>
+
   - Python
   - JavaScript
   - React.js
