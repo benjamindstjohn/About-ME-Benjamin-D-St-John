@@ -12,8 +12,6 @@
   - HTML (Markup Language)
   - CSS (Sheet Style Language)
 
-<br>
-
 <h2>Software Development Projects:</h2>
 
 
