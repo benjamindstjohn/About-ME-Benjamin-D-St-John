@@ -1,5 +1,5 @@
 <h1>Benjamin D. St. John<br>
-<a href="https://github.com/sanctusjack">Investment Banking</a> & <a href="https://www.linkedin.com/in/benjamin-st-john-353a85278/">Software Engineering</a></h1>
+<a href="https://github.com/sanctusjack">Investment Banking</a> & <a href="https://www.linkedin.com/in/benjamin-st-john-353a85278/">Software Engineering</a> <p1><b>For all professional and business inquiries, please contact:</b><i> benjaminstjohn1@gmail.com</i></p1></h1>
 <p1><b>For all professional and business inquiries, please contact:</b><i> benjaminstjohn1@gmail.com</i></p1>
 <br>
 <br>
