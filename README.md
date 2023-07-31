@@ -1,4 +1,4 @@
-<h1>Benjamin D. St. John 
+<h1>Benjamin D. St. John <br>
 <a href="https://github.com/sanctusjack">Financial Analyst</a> & <a href="https://www.linkedin.com/in/benjamin-st-john-353a85278/">Software Engineer</a></h1>
 <b>For all professional and business inquiries, please contact: </b><i>benjaminstjohn1@gmail.com</i>
 
