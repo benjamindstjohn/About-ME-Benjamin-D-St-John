@@ -15,7 +15,7 @@
 <br>
 <h2>Software Development Projects:</h2>
 <h3>Project 1</h3>
-<b>FinTech Web Application (Fullstack Development):</b> <br>
+<h4>FinTech Web Application (Fullstack Development):</h4> <br>
 <i>Website application designed to be a swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.
 </i>
 <br>
