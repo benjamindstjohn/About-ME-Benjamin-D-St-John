@@ -3,8 +3,7 @@
 <p1><b>For all professional and business inquiries, please contact:</b><i> benjaminstjohn1@gmail.com</i></p1>
 <br>
 <br>
-<h2>Programming Languages:</h2>
-
+<h2>My Programming ToolKit:</h2>
   - Python
   - Java
   - JavaScript
@@ -16,33 +15,50 @@
 <h2>Software Development Projects:</h2>
 
 
-- <b>FinTech Web Application (Fullstack Development). Functions and Systems of application: Stock Market Charting, Real-time Financial News Updates, Datan API Requests, User-friendly GUI</b>
-
-  - Application Programmming Interface (API).
-  - Utilized Python libraries for making API data requests.
-  - Frontend UX/UI created with HTML/CSS and React.js framework.
-  - Implemented JavaScript for functionality.
+- <b>FinTech Web Application (Fullstack Development):
+<i>Website application designed to be the swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.</i>
+<b>Languages & Frameworks Used:
+  - Javascript
+  - Reactjs, HTML, & CSS</b>
+  
+  <b>Systems Used:</b>
+  - APIs for Data Transfer
+  - JavaScript Frontend for Functionality
+  - HTML, CSS, & Reactjs for User-friendly GUI Design
+  - Javascript for Frontend Functionality
  
 <br>
 
-- <b>Project 2</b>
-  - <i>Coming Soon...</i>
+- <b>University of Wisconsin-Milwaukee Capstone Project (Fullstack Development)</b>
+ <i>Design and implement an intelligent backend server that effectively combines the local data storage and cloud resources to seamlessly execute statistical and machine learning algorithms. This integration aims to optimize data processing and analysis. The backend server will establish some pipelines connected to a user-friendly GUI and a RESTful API. These interfaces will allow users to navigate algorithms and data efficiently.</i>
+ <b>Languages & Frameworks Used:
+  - C++
+  - Python
+  - Javascript
+  - SQL
+  - Django
+  - Reactjs, HTML, & CSS</b>
+  
+  <b>Systems Used:</b>
+  - Cloud Compututing for Data Storage
+  - Machine Learning Algorithms for Training & Modeling Data
+  - PostgreSQL Database for GIS, Text, Image, and Structured Datatypes
+  - RESTful API Data Transfer
+  - Django & Python for Intelligent Backend
+  - HTML, CSS, & Reactjs for User-friendly GUI Design
+  - Javascript for Frontend Functionality
+ 
+<br>
+
 - <b>Project 3</b>
-  - <i>Coming Soon...</i>
-- <b>Project 4</b>
-  - <i>Coming Soon...</i>
-- <b>Project 5</b>
   - <i>Coming Soon...</i>
   
 <br>
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="BenQuant | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="BenQuant | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="BenQuant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="BenQuant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://www.twitter.com/github/
-[youtube]: https://www.youtube.com/@GitHub
 [instagram]: https://www.instagram.com/benstjohnn/
 [linkedin]: https://www.linkedin.com/in/benjamin-st-john-353a85278/
