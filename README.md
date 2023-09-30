@@ -48,13 +48,13 @@
   <br>
   <br>
   <b>Systems Used:</b>
-  - Cloud Compututing for Data Storage
-  - Machine Learning Algorithms for Training & Modeling Data
-  - PostgreSQL Database for GIS, Text, Image, and Structured Datatypes
-  - RESTful API Data Transfer
-  - Django & Python for Intelligent Backend
-  - HTML, CSS, & Reactjs for User-friendly GUI Design
-  - Javascript for Frontend Functionality
+    - Cloud Compututing for Data Storage
+    - Machine Learning Algorithms for Training & Modeling Data
+    - PostgreSQL Database for GIS, Text, Image, and Structured Datatypes
+    - RESTful API Data Transfer
+    - Django & Python for Intelligent Backend
+    - HTML, CSS, & Reactjs for User-friendly GUI Design
+    - Javascript for Frontend Functionality
 <br>
 <br>
 <br>
