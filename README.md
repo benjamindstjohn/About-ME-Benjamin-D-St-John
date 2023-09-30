@@ -3,7 +3,7 @@
 <p1><b>For all professional and business inquiries, please contact:</b><i> benjaminstjohn1@gmail.com</i></p1>
 <br>
 <br>
-<h2>Languages & Frameworks Used:</h2><b>
+<h2>My Programming ToolKit:</h2><b>
     ⦿ C++ <br>
     ⦿ Python <br>
     ⦿ Javascript <br>
@@ -23,7 +23,9 @@
 <br>
 <b>Languages & Frameworks Used:</b><br>
   ∙ JavaScript <br>
-  ∙ Reactjs, HTML, & CSS <br>
+  ∙ Reactjs, HTML, & CSS 
+  <br>
+  <br>
   <br>
   <b>Systems Used:</b><br>
     ∙ APIs for Data Transfer <br>
@@ -42,7 +44,8 @@
   ∙ Javascript <br>
   ∙ SQL <br>
   ∙ Django <br>
-  ∙ Reactjs, HTML, & CSS <br>
+  ∙ Reactjs, HTML, & CSS 
+  <br>
   <br>
   <br>
   <b>Systems Used:</b><br>
@@ -55,10 +58,10 @@
     ∙ Javascript for Frontend Functionality <br>
 <br>
 <br>
-<br>
 - <b>Project 3</b>
-  - <i>Coming Soon...</i>
-  
+  → <i>Coming Soon...</i>
+<br>
+<br>
 <br>
 <h2>Connect with me:</h2>
 
