@@ -3,7 +3,7 @@
 <p1><b>For all professional and business inquiries, please contact:</b><i> benjaminstjohn1@gmail.com</i></p1>
 <br>
 <br>
-<h2>My Programming ToolKit:</h2>
+<h2>My Programming Languages:</h2>
   - Python
   - Java
   - JavaScript
