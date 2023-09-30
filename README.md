@@ -46,7 +46,7 @@
   <br>
   <br>
   <b>Systems Used:</b> <br>
-    ∙ Cloud Compututing for Data Storage <br>
+    ∙ Cloud Computing for Data Storage <br>
     ∙ Machine Learning Algorithms for Training & Modeling Data <br>
     ∙ PostgreSQL Database for GIS, Text, Image, and Structured Datatypes <br>
     ∙ RESTful API Data Transfer <br>
@@ -59,7 +59,9 @@
 
 
 [<img align="left" alt="BenQuant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BenQuant | Handshake" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][handshake]
 [<img align="left" alt="BenQuant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/benstjohnn/
-[linkedin]: https://www.linkedin.com/in/benjamin-st-john-353a85278/
+[instagram] : https://www.instagram.com/benstjohnn/
+[handshake] : https://uwm.joinhandshake.com/stu/users/50904620
+[linkedin] : https://www.linkedin.com/in/benjamin-st-john-353a85278/
