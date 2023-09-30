@@ -4,13 +4,13 @@
 <br>
 <br>
 <h2>Languages & Frameworks Used:</h2>
-    ○ C++ <br>
-    ○ Python <br>
-    ○ Javascript <br>
-    ○ Java  <br>
-    ○ SQL <br>
-    ○ Django <br>
-    ○ Reactjs, HTML, & CSS</b> <br>
+    ⦿ C++ <br>
+    ⦿ Python <br>
+    ⦿ Javascript <br>
+    ⦿ Java  <br>
+    ⦿ SQL <br>
+    ⦿ Django <br>
+    ⦿ Reactjs, HTML, & CSS</b> <br>
 <br>
 <br>
 <br>
