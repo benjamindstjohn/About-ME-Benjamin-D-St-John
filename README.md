@@ -30,7 +30,8 @@
   <b>Systems Used:</b><br>
     ∙ APIs for Data Transfer <br>
     ∙ JavaScript Frontend for Functionality <br>
-    ∙ HTML, CSS, & Reactjs for User-friendly GUI Design <br>
+    ∙ HTML, CSS, & Reactjs for User-friendly GUI Design 
+<br>
 <br>
 <br>
 <h3>Project 2</h3>
@@ -55,11 +56,7 @@
     ∙ RESTful API Data Transfer <br>
     ∙ Django & Python for Intelligent Backend <br>
     ∙ HTML, CSS, & Reactjs for User-friendly GUI Design <br>
-    ∙ Javascript for Frontend Functionality <br>
-<br>
-<br>
-- <b>Project 3</b>
-  → <i>Coming Soon...</i>
+    ∙ Javascript for Frontend Functionality
 <br>
 <br>
 <br>
