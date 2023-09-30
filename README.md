@@ -3,14 +3,14 @@
 <p1><b>For all professional and business inquiries, please contact:</b><i> benjaminstjohn1@gmail.com</i></p1>
 <br>
 <br>
-<h2>Languages & Frameworks Used:
-  - C++
-  - Python
-  - Javascript
-  - Java
-  - SQL
-  - Django
-  - Reactjs, HTML, & CSS</h2>
+<h2>Languages & Frameworks Used: <br>
+  -C++
+  -Python
+  -Javascript
+  -Java
+  -SQL
+  -Django
+  -Reactjs, HTML, & CSS</h2>
 
 <br>
 <h2>Software Development Projects:</h2>
