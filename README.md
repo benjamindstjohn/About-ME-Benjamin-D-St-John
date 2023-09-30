@@ -25,11 +25,11 @@
   - JavaScript <br>
   - Reactjs, HTML, & CSS <br>
   <br>
-  <b>Systems Used:</b>
-  - APIs for Data Transfer
-  - JavaScript Frontend for Functionality
-  - HTML, CSS, & Reactjs for User-friendly GUI Design
-  - Javascript for Frontend Functionality
+  <b>Systems Used:</b><br>
+    - APIs for Data Transfer <br>
+    - JavaScript Frontend for Functionality <br>
+    - HTML, CSS, & Reactjs for User-friendly GUI Design <br>
+    - Javascript for Frontend Functionality <br>
 <br>
 <br>
 <br>
