@@ -3,15 +3,14 @@
 <p1><b>For all professional and business inquiries, please contact:</b><i> benjaminstjohn1@gmail.com</i></p1>
 <br>
 <br>
-<h2>Languages & Frameworks Used:</h2><b>
-  -C++
-  -Python
-  -Javascrip
-  -Java
-  -SQL
-  -Django
-  -Reactjs, HTML, & CSS
-</b>
+<h2>Languages & Frameworks Used:</h2><br>
+    - C++ <br>
+    - Python <br>
+    - Javascript <br>
+    - Java  <br>
+    - SQL <br>
+    - Django <br>
+    - Reactjs, HTML, & CSS</b> <br>
 <br>
 <br>
 <br>
@@ -30,7 +29,6 @@
     - APIs for Data Transfer <br>
     - JavaScript Frontend for Functionality <br>
     - HTML, CSS, & Reactjs for User-friendly GUI Design <br>
-    - Javascript for Frontend Functionality <br>
 <br>
 <br>
 <h3>Project 2</h3>
