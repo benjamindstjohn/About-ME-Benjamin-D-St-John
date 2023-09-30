@@ -3,7 +3,7 @@
 <p1><b>For all professional and business inquiries, please contact:</b><i> benjaminstjohn1@gmail.com</i></p1>
 <br>
 <br>
-<h2>Languages & Frameworks Used:</h2><br>
+<h2>Languages & Frameworks Used:</h2>
     - C++ <br>
     - Python <br>
     - Javascript <br>
