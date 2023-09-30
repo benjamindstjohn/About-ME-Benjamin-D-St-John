@@ -22,13 +22,13 @@
 <br>
 <br>
 <b>Languages & Frameworks Used:</b><br>
-  - JavaScript <br>
-  - Reactjs, HTML, & CSS <br>
+  ∙ JavaScript <br>
+  ∙ Reactjs, HTML, & CSS <br>
   <br>
   <b>Systems Used:</b><br>
-    - APIs for Data Transfer <br>
-    - JavaScript Frontend for Functionality <br>
-    - HTML, CSS, & Reactjs for User-friendly GUI Design <br>
+    ∙ APIs for Data Transfer <br>
+    ∙ JavaScript Frontend for Functionality <br>
+    ∙ HTML, CSS, & Reactjs for User-friendly GUI Design <br>
 <br>
 <br>
 <h3>Project 2</h3>
@@ -37,22 +37,22 @@
  <br>
  <br>
  <b>Languages & Frameworks Used:</b><br>
-  - C++ <br>
-  - Python <br>
-  - Javascript <br>
-  - SQL <br>
-  - Django <br>
-  - Reactjs, HTML, & CSS <br>
+  ∙ C++ <br>
+  ∙ Python <br>
+  ∙ Javascript <br>
+  ∙ SQL <br>
+  ∙ Django <br>
+  ∙ Reactjs, HTML, & CSS <br>
   <br>
   <br>
   <b>Systems Used:</b><br>
-    - Cloud Compututing for Data Storage <br>
-    - Machine Learning Algorithms for Training & Modeling Data <br>
-    - PostgreSQL Database for GIS, Text, Image, and Structured Datatypes <br>
-    - RESTful API Data Transfer <br>
-    - Django & Python for Intelligent Backend <br>
-    - HTML, CSS, & Reactjs for User-friendly GUI Design <br>
-    - Javascript for Frontend Functionality <br>
+    ∙ Cloud Compututing for Data Storage <br>
+    ∙ Machine Learning Algorithms for Training & Modeling Data <br>
+    ∙ PostgreSQL Database for GIS, Text, Image, and Structured Datatypes <br>
+    ∙ RESTful API Data Transfer <br>
+    ∙ Django & Python for Intelligent Backend <br>
+    ∙ HTML, CSS, & Reactjs for User-friendly GUI Design <br>
+    ∙ Javascript for Frontend Functionality <br>
 <br>
 <br>
 <br>
