@@ -4,13 +4,13 @@
 <br>
 <br>
 <h2>My Programming ToolKit:</h2><b>
-    ⦿ C++ <br>
-    ⦿ Python <br>
-    ⦿ Javascript <br>
-    ⦿ Java  <br>
-    ⦿ SQL <br>
-    ⦿ Django <br>
-    ⦿ Reactjs, HTML, & CSS </b><br>
+    ❏ C++ <br>
+    ❏ Python <br>
+    ❏ Javascript <br>
+    ❏ Java  <br>
+    ❏ SQL <br>
+    ❏ Django <br>
+    ❏ Reactjs, HTML, & CSS </b><br>
 <br>
 <br>
 <h2>Software Development Projects:</h2>
