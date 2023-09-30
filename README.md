@@ -58,6 +58,7 @@
     ∙ HTML, CSS, & Reactjs for User-friendly GUI Design <br>
     ∙ Javascript for Frontend Functionality
 <br>
+<br>
 <h2>Connect with me:</h2>
 
 
