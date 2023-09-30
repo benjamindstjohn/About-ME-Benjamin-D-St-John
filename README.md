@@ -16,10 +16,10 @@
 <h2>Software Development Projects:</h2>
 
 <b>FinTech Web Application (Fullstack Development):</b>
-<i>Website application designed to be the swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.</i>
-<b>Languages & Frameworks Used:
+<i>Website application designed to be the swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.</i><br>
+<b>Languages & Frameworks Used:</b>
   - Javascript
-  - Reactjs, HTML, & CSS</b>
+  - Reactjs, HTML, & CSS
   
   <b>Systems Used:</b>
   - APIs for Data Transfer
@@ -30,7 +30,7 @@
 <br>
 
 <b>University of Wisconsin-Milwaukee Capstone Project (Fullstack Development)</b>
- <i>Design and implement an intelligent backend server that effectively combines the local data storage and cloud resources to seamlessly execute statistical and machine learning algorithms. This integration aims to optimize data processing and analysis. The backend server will establish some pipelines connected to a user-friendly GUI and a RESTful API. These interfaces will allow users to navigate algorithms and data efficiently.</i>
+ <i>Design and implement an intelligent backend server that effectively combines the local data storage and cloud resources to seamlessly execute statistical and machine learning algorithms. This integration aims to optimize data processing and analysis. The backend server will establish some pipelines connected to a user-friendly GUI and a RESTful API. These interfaces will allow users to navigate algorithms and data efficiently.</i><br>
  <b>Languages & Frameworks Used:</b>
   - C++
   - Python
