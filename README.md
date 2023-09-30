@@ -16,7 +16,7 @@
 <br>
 <h2>Software Development Projects:</h2>
 <h3>Project 1</h3>
-<b>FinTech Web Application (Fullstack Development):</b>
+<b>FinTech Web Application (Fullstack Development):</b><br>
 <i>Website application designed to be the swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.
 </i>
 <br>
@@ -34,7 +34,7 @@
 <br>
 <br>
 <h3>Project 2</h3>
-<b>Capstone Project (Fullstack Development)</b>
+<b>Capstone Project (Fullstack Development)</b><br>
  <i>Design and implement an intelligent backend server that effectively combines the local data storage and cloud resources to seamlessly execute statistical and machine learning algorithms. This integration aims to optimize data processing and analysis. The backend server will establish some pipelines connected to a user-friendly GUI and a RESTful API. These interfaces will allow users to navigate algorithms and data efficiently.</i>
  <br>
  <br>
@@ -47,14 +47,14 @@
   - Reactjs, HTML, & CSS <br>
   <br>
   <br>
-  <b>Systems Used:</b>
-    - Cloud Compututing for Data Storage
-    - Machine Learning Algorithms for Training & Modeling Data
-    - PostgreSQL Database for GIS, Text, Image, and Structured Datatypes
-    - RESTful API Data Transfer
-    - Django & Python for Intelligent Backend
-    - HTML, CSS, & Reactjs for User-friendly GUI Design
-    - Javascript for Frontend Functionality
+  <b>Systems Used:</b><br>
+    - Cloud Compututing for Data Storage <br>
+    - Machine Learning Algorithms for Training & Modeling Data <br>
+    - PostgreSQL Database for GIS, Text, Image, and Structured Datatypes <br>
+    - RESTful API Data Transfer <br>
+    - Django & Python for Intelligent Backend <br>
+    - HTML, CSS, & Reactjs for User-friendly GUI Design <br>
+    - Javascript for Frontend Functionality <br>
 <br>
 <br>
 <br>
