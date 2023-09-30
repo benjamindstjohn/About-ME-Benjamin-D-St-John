@@ -6,17 +6,17 @@
 <h2>Programming Languages:</h2>
 
   - Python
+  - Java
   - JavaScript
   - React.js
-  - R
-  - C++
+  - SQL
   - HTML (Markup Language)
   - CSS (Sheet Style Language)
 <br>
 <h2>Software Development Projects:</h2>
 
 
-- <b>FinTech Website with Charting & Data APIs (Frontend + Backend)</b>
+- <b>FinTech Web Application (Fullstack Development). Functions and Systems of application: Stock Market Charting, Real-time Financial News Updates, Datan API Requests, User-friendly GUI</b>
 
   - Application Programmming Interface (API).
   - Utilized Python libraries for making API data requests.
