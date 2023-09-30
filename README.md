@@ -32,7 +32,6 @@
     - Javascript for Frontend Functionality <br>
 <br>
 <br>
-<br>
 <h3>Project 2</h3>
 <b>Capstone Project (Fullstack Development)</b><br>
  <i>Design and implement an intelligent backend server that effectively combines the local data storage and cloud resources to seamlessly execute statistical and machine learning algorithms. This integration aims to optimize data processing and analysis. The backend server will establish some pipelines connected to a user-friendly GUI and a RESTful API. These interfaces will allow users to navigate algorithms and data efficiently.</i>
