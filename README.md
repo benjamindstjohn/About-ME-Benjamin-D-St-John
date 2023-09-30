@@ -10,7 +10,7 @@
     ❏ Java  <br>
     ❏ SQL <br>
     ❏ Django <br>
-    ❏ Reactjs, HTML, & CSS </b><br>
+    ❏ Reactjs, HTML, & CSS</b>
 <br>
 <br>
 <h2>Software Development Projects:</h2>
