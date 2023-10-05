@@ -55,3 +55,19 @@
     ∙ Javascript for Frontend Functionality
 <br>
 <br>
+<h3><a href="https://github.com/sanctusjack/Project-3-Javascript-Calculator">Project 3: Javascript Calculator</h3></a>
+<b>FinTech Web Application (Fullstack Development):</b> <br>
+<i>Website application designed to be a swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.</i>
+<br>
+<br>
+<b>Languages & Frameworks Used:</b> <br>
+  ∙ JavaScript <br>
+  ∙ Reactjs, HTML, & CSS 
+  <br>
+  <br>
+  <b>Systems Used:</b> <br>
+    ∙ APIs for Data Transfer <br>
+    ∙ JavaScript Frontend for Functionality <br>
+    ∙ HTML, CSS, & Reactjs for User-friendly GUI Design 
+<br>
+<br>
