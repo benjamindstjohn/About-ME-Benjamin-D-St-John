@@ -10,25 +10,28 @@
     ❏ Java  <br>
     ❏ SQL <br>
     ❏ Django <br>
-    ❏ React, HTML, and CSS</b>
+    ❏ React <br>
+    ❏ HTML <br> 
+    ❏ CSS
 <br>
 <br>
 <h2>Software Development Experience:</h2>
 <h3><a href="https://github.com/sanctusjack/Project-1-Financial-Pulse">Project 1: Financial Pulse</h3></a>
 <b>FinTech Web Application (Full-stack Development):</b> <br>
-<i>Website application designed to be a swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.
-</i>
+<i>Website application designed to be a swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.</i>
 <br>
 <br>
 <b>Languages and Frameworks Used:</b> <br>
   ∙ Javascript <br>
-  ∙ React, HTML, and CSS 
+  ∙ React <br>
+  ∙ HTML <br>
+  ∙ CSS
   <br>
   <br>
   <b>Systems Used:</b> <br>
     ∙ APIs for Data Transfer. <br>
     ∙ JavaScript Frontend for Functionality. <br>
-    ∙ HTML, CSS, and React for User-friendly. GUI Design 
+    ∙ HTML, CSS, and React for User-friendly GUI Design. 
 <br>
 <br>
 <h3><a  href="https://github.com/sanctusjack/Project-2-Algo-Data-ML">Project 2: Capstone Project    </a></h3>
@@ -42,7 +45,9 @@
   ∙ Javascript <br>
   ∙ SQL <br>
   ∙ Django <br>
-  ∙ React, HTML, and CSS 
+  ∙ React <br>
+  ∙ HTML <br>
+  ∙ CSS 
   <br>
   <br>
   <b>Systems Used:</b> <br>
@@ -62,7 +67,8 @@
 <br>
 <b>Languages and Frameworks Used:</b> <br>
   ∙ JavaScript <br>
-  ∙ HTML and CSS
+  ∙ HTML
+  ∙ CSS
   <br>
   <br>
   <b>Systems Used:</b> <br>
