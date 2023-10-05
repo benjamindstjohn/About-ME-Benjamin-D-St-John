@@ -54,10 +54,10 @@
     ∙ Cloud Computing for Data Storage. <br>
     ∙ Machine Learning Algorithms for Training and Modeling Data. <br>
     ∙ PostgreSQL Database for GIS, Text, Image, and Structured Datatype. <br>
-    ∙ RESTful API Data Transfer. <br>
     ∙ Django & Python for Intelligent Backend. <br>
     ∙ HTML, CSS, and React for User-friendly GUI Design. <br>
-    ∙ Javascript for Frontend Functionality.
+    ∙ Javascript for Frontend Functionality. <br>
+    ∙ RESTful API Data Transfer.
 <br>
 <br>
 <h3><a href="https://github.com/sanctusjack/Project-3-Javascript-Calculator">Project 3: Javascript Calculator</h3></a>
