@@ -28,7 +28,7 @@
   ∙ CSS
   <br>
   <br>
-  <b>Systems Used:</b> <br>
+  <b><u>Systems Used:</b></u> <br>
     ∙ APIs for Data Transfer. <br>
     ∙ JavaScript Frontend for Functionality. <br>
     ∙ HTML, CSS, and React for User-friendly GUI Design. 
