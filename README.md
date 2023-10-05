@@ -15,9 +15,7 @@
     ❏ CSS
 <br>
 <br>
-<h2>Software Development Experience:</h2>
-<br>
-<br>
+<h2>Software Engineering Experience:</h2>
 <h3><a href="https://github.com/sanctusjack/Project-1-Financial-Pulse">Project 1: Financial Pulse</h3></a>
 <b>FinTech Web Application (Full-stack Development):</b> <br>
 <i>Website application designed to be a swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.</i>
