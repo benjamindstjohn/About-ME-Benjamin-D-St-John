@@ -1,5 +1,3 @@
-<br>
-<br>
 <h1><a href="https://github.com/sanctusjack">Benjamin D. St. John<br></a>
 <a href="https://uwm.joinhandshake.com/stu/users/50904620">Investment Banking</a> & <a href="https://www.linkedin.com/in/benjamin-d-st-john-353a85278/">Software Engineering</a></h1>
 <p1><b>For all professional and business inquiries, please contact:</b><i> bdstjohn@uwm.edu</i></p1>
@@ -18,6 +16,8 @@
 <br>
 <br>
 <h2>Software Development Experience:</h2>
+<br>
+<br>
 <h3><a href="https://github.com/sanctusjack/Project-1-Financial-Pulse">Project 1: Financial Pulse</h3></a>
 <b>FinTech Web Application (Full-stack Development):</b> <br>
 <i>Website application designed to be a swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.</i>
