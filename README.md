@@ -20,7 +20,7 @@
 </i>
 <br>
 <br>
-<b>Languages & Frameworks Used:</b> <br>
+<b>Languages and Frameworks Used:</b> <br>
   ∙ Javascript <br>
   ∙ React, HTML, and CSS 
   <br>
