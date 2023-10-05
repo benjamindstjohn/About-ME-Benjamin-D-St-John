@@ -26,9 +26,9 @@
   <br>
   <br>
   <b>Systems Used:</b> <br>
-    ∙ APIs for Data Transfer <br>
-    ∙ JavaScript Frontend for Functionality <br>
-    ∙ HTML, CSS, and React for User-friendly GUI Design 
+    ∙ APIs for Data Transfer. <br>
+    ∙ JavaScript Frontend for Functionality. <br>
+    ∙ HTML, CSS, and React for User-friendly. GUI Design 
 <br>
 <br>
 <h3><a  href="https://github.com/sanctusjack/Project-2-Algo-Data-ML">Project 2: Capstone Project    </a></h3>
@@ -46,13 +46,13 @@
   <br>
   <br>
   <b>Systems Used:</b> <br>
-    ∙ Cloud Computing for Data Storage <br>
-    ∙ Machine Learning Algorithms for Training and Modeling Data <br>
-    ∙ PostgreSQL Database for GIS, Text, Image, and Structured Datatypes <br>
-    ∙ RESTful API Data Transfer <br>
-    ∙ Django & Python for Intelligent Backend <br>
-    ∙ HTML, CSS, and React for User-friendly GUI Design <br>
-    ∙ Javascript for Frontend Functionality
+    ∙ Cloud Computing for Data Storage. <br>
+    ∙ Machine Learning Algorithms for Training and Modeling Data. <br>
+    ∙ PostgreSQL Database for GIS, Text, Image, and Structured Datatype. <br>
+    ∙ RESTful API Data Transfer. <br>
+    ∙ Django & Python for Intelligent Backend. <br>
+    ∙ HTML, CSS, and React for User-friendly GUI Design. <br>
+    ∙ Javascript for Frontend Functionality.
 <br>
 <br>
 <h3><a href="https://github.com/sanctusjack/Project-3-Javascript-Calculator">Project 3: Javascript Calculator</h3></a>
@@ -60,14 +60,14 @@
 <i>Basic proogram utilizing the fundamentals of Javascript's ability to implement functionality to front-end web applications.</i>
 <br>
 <br>
-<b>Languages & Frameworks Used:</b> <br>
+<b>Languages and Frameworks Used:</b> <br>
   ∙ JavaScript <br>
   ∙ HTML and CSS
   <br>
   <br>
   <b>Systems Used:</b> <br>
-    ∙ Front-end development <br>
-    ∙ JavaScript for Functionality <br>
-    ∙ User-friendly GUI Design 
+    ∙ Front-end development. <br>
+    ∙ JavaScript for Functionality. <br>
+    ∙ User-friendly GUI Design. 
 <br>
 <br>
