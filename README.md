@@ -67,7 +67,7 @@
 <br>
 <b>Languages and Frameworks Used:</b> <br>
   ∙ JavaScript <br>
-  ∙ HTML
+  ∙ HTML <br>
   ∙ CSS
   <br>
   <br>
