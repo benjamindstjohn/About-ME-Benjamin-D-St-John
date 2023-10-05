@@ -60,7 +60,7 @@
     ∙ RESTful API Data Transfer.
 <br>
 <br>
-<h3><a href="https://github.com/sanctusjack/Project-3-Javascript-Calculator">Project 3: Javascript Calculator</h3></a>
+<h3> <a href="https://github.com/sanctusjack/Project-3-Javascript-Calculator">Project 3: Javascript Calculator</h3></a>
 <b>Javascript Calculator(Front-end Development):</b> <br>
 <i>Basic proogram utilizing the fundamentals of Javascript's ability to implement functionality to front-end web applications.</i>
 <br>
