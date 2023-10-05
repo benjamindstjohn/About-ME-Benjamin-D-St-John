@@ -1,3 +1,5 @@
+<br>
+<br>
 <h1><a href="https://github.com/sanctusjack">Benjamin D. St. John<br></a>
 <a href="https://uwm.joinhandshake.com/stu/users/50904620">Investment Banking</a> & <a href="https://www.linkedin.com/in/benjamin-d-st-john-353a85278/">Software Engineering</a></h1>
 <p1><b>For all professional and business inquiries, please contact:</b><i> bdstjohn@uwm.edu</i></p1>
