@@ -1,8 +1,7 @@
 # <a href="https://github.com/sanctusjack">Benjamin D. St. John</a> <br>
+<b>Investment Banking, Financial Analysis, and Software Engineering</b> <br>
 
-## Investment Banking & Software Engineering ## 
-
-<p1><b>For all professional and business inquiries, please contact:</b><i> bdstjohn@uwm.edu</i></p1> <br>
+<p1>For all professional and business inquiries, <i>please contact: bdstjohn@uwm.edu</i></p1> <br>
 
 <hr>
 
@@ -25,15 +24,15 @@
 <i>Website application designed to be a swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.</i>
 
 <h4>Languages and Frameworks Used</h4>
-    ❏ Javascript <br>
-    ❏ React <br>
-    ❏ HTML <br>
-    ❏ CSS <br>
+    ∙ Javascript <br>
+    ∙ React <br>
+    ∙ HTML <br>
+    ∙ CSS <br>
  <br>
   <b>Systems Used:</b> <br>
-    ❏ APIs for Data Transfer <br>
-    ❏ JavaScript Frontend for Functionality <br>
-    ❏ HTML, CSS, and React for User-friendly GUI Design 
+    ∙ APIs for Data Transfer <br>
+    ∙ JavaScript Frontend for Functionality <br>
+    ∙ HTML, CSS, and React for User-friendly GUI Design 
 
 <hr>
 
