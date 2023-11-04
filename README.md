@@ -64,7 +64,7 @@
 
 <hr>
 
-### Project 3: <a href="https://github.com/sanctusjack/Project-3-Calculator">JavaScript Calculator Application</a>
+### Project 3: <a href="https://github.com/sanctusjack/Project-3-JavaScript-Calculator">JavaScript Calculator Application</a>
 <b>Front-end Calculator Application (Front-end Development):</b> <br>
 <i>Basic program utilizing the fundamentals of Javascript's ability to implement functionality to front-end web applications.</i>
 
