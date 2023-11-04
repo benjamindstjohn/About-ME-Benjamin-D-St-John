@@ -80,7 +80,7 @@
     
 <hr>
 
-### Project 4: <a href="https://github.com/sanctusjack/Project-3-Calculator">COMPSCI 250-402 Java Program 1</a>
+### Project 4: <a href="https://github.com/sanctusjack/Project-4-ERA-Calculator">COMPSCI 250-402 Java Program 1</a>
 <b>Javascript Calculator(Front-end Development):</b> <br>
 <i>Basic program utilizing the fundamentals of Javascript's ability to implement functionality to front-end web applications.</i>
 
