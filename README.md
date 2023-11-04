@@ -80,30 +80,31 @@
     
 <hr>
 
-### Project 4: <a href="https://github.com/sanctusjack/Project-4-ERA-Calculator">COMPSCI 250-402 Java ERA Calculator</a>
-<b>Java ERA Calculator</b> <br>
-<i>Java program that calculates a given player's earned run average (E.R.A.) by user inputting custom values.</i>
+### Project 4: <a href="https://github.com/sanctusjack/Project-4-ERA-Calculator">Java E.R.A. Calculator Application</a>
+<b>Java E.R.A. Calculator</b> <br>
+<i>Java program that calculates a given player's earned run average (E.R.A.) by the user inputting custom values.</i>
 
 <b>Languages and Frameworks Used:</b> <br>
   ∙ Java <br>
+  ∙ Import java.util.Scanner <br>
+  ∙ Initialization and declaration of variables (scanner class) 
 
   <b>Systems Used:</b> <br>
-    ∙ Public class <br>
-    ∙ import java.util.Scanner <br>
-    ∙ Initialization and declaration of variables (scanner class) 
+    ∙ <b><i>N/A</i></b>
     
 <hr>
 
-### Project 5: <a href="https://github.com/sanctusjack/Project-3-Calculator">COMPSCI 250-402 Java Program 2</a>
-<b>Javascript Calculator (Front-end Development):</b> <br>
-<i>Basic program utilizing the fundamentals of Javascript's ability to implement functionality to front-end web applications.</i>
+### Project 5: <a href="https://github.com/sanctusjack/Project-5-Area">Java Room Dimension Computation</a>
+<b>Java Room Dimension Computation</b> <br>
+<i>Java program that calculates the surface area of a room's floor, the combined surfacce area of all four walls in the room, and the total square footage of the room when assigned a specific length, width, and height.</i>
 
 <b>Languages and Frameworks Used:</b> <br>
   ∙ Java <br>
+  ∙ System.out.println <br>
+  ∙ Initialization and declaration of variables <br>
+  ∙ Double-precision 64-bit IEEE 754 floating point primitive data type
 
   <b>Systems Used:</b> <br>
-    ∙ Public class <br>
-    ∙ Do-while loop <br>
-    ∙ User input (scanner class) 
+    ∙ <b><i>N/A</i></b>
     
 <hr>
