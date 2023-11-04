@@ -81,8 +81,8 @@
 <hr>
 
 ### Project 4: <a href="https://github.com/sanctusjack/Project-4-ERA-Calculator">COMPSCI 250-402 Java ERA Calculator</a>
-<b>Java program that calculates a given player's earned run average (E.R.A.) by user inputting custom values.</b> <br>
-<i>Basic program utilizing basic Java functions.</i>
+<b>Java ERA Calculator</b> <br>
+<i>Java program that calculates a given player's earned run average (E.R.A.) by user inputting custom values.</i>
 
 <b>Languages and Frameworks Used:</b> <br>
   ∙ Java <br>
