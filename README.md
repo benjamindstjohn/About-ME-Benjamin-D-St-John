@@ -22,7 +22,7 @@
 <hr>
 
 ## Software Engineering Experience
-### Project 1: <a href="https://github.com/sanctusjack/Project-1-Financial-Pulse">Financial Charting and News Application</a>
+### Project 1: <a href="https://github.com/sanctusjack/Project-1-Financial-Charting-News-Application">Financial Charting and News Application</a>
 <b>FinTech Web Application (Full-stack Development):</b> 
 <i>Website application designed to be a swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.</i>
 
