@@ -86,7 +86,7 @@
 
 <b>Languages and Frameworks Used:</b> <br>
   ∙ Java <br>
-  ∙ Import java.util.Scanner <br>
+  ∙ Import java.util.Scanner; <br>
   ∙ Initialization and declaration of variables (scanner class) 
 
   <b>Systems Used:</b> <br>
@@ -100,7 +100,7 @@
 
 <b>Languages and Frameworks Used:</b> <br>
   ∙ Java <br>
-  ∙ System.out.println <br>
+  ∙ System.out.println(); <br>
   ∙ Initialization and declaration of variables <br>
   ∙ Double-precision 64-bit IEEE 754 floating point primitive data type
 
