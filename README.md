@@ -94,7 +94,7 @@
     
 <hr>
 
-### Project 5: <a href="https://github.com/sanctusjack/Project-5-Area">Java Surface Area and Square Footage Computation</a>
+### Project 5: <a href="https://github.com/sanctusjack/Project-5-Area">Java Surface Area and Square Footage Computation Application</a>
 <b>Surface Area and Square Footage Computation</b> <br>
 <i>Java program that calculates the surface area of a room's floor, the combined surfacce area of all four walls in the room, and the total square footage of the room when assigned a specific length, width, and height.</i>
 
