@@ -65,7 +65,7 @@
 <hr>
 
 ### Project 3: <a href="https://github.com/sanctusjack/Project-3-Calculator">JavaScript Calculator Application</a>
-<b>Javascript Calculator (Front-end Development):</b> <br>
+<b>Front-end Calculator Application (Front-end Development):</b> <br>
 <i>Basic program utilizing the fundamentals of Javascript's ability to implement functionality to front-end web applications.</i>
 
 <b>Languages and Frameworks Used:</b> <br>
@@ -81,7 +81,7 @@
 <hr>
 
 ### Project 4: <a href="https://github.com/sanctusjack/Project-4-ERA-Calculator">Java E.R.A. Calculator Application</a>
-<b>Java E.R.A. Calculator</b> <br>
+<b>E.R.A. Calculator</b> <br>
 <i>Java program that calculates a given player's earned run average (E.R.A.) by the user inputting custom values.</i>
 
 <b>Languages and Frameworks Used:</b> <br>
@@ -94,8 +94,8 @@
     
 <hr>
 
-### Project 5: <a href="https://github.com/sanctusjack/Project-5-Area">Java Room Dimension Computation</a>
-<b>Java Room Dimension Computation</b> <br>
+### Project 5: <a href="https://github.com/sanctusjack/Project-5-Area">Java Surface Area and Square Footage Computation</a>
+<b>Surface Area and Square Footage Computation</b> <br>
 <i>Java program that calculates the surface area of a room's floor, the combined surfacce area of all four walls in the room, and the total square footage of the room when assigned a specific length, width, and height.</i>
 
 <b>Languages and Frameworks Used:</b> <br>
