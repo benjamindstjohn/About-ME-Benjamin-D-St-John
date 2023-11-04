@@ -65,7 +65,7 @@
 <hr>
 
 ### Project 3: <a href="https://github.com/sanctusjack/Project-3-Calculator">JavaScript Calculator Application</a>
-<b>Javascript Calculator(Front-end Development):</b> <br>
+<b>Javascript Calculator (Front-end Development):</b> <br>
 <i>Basic program utilizing the fundamentals of Javascript's ability to implement functionality to front-end web applications.</i>
 
 <b>Languages and Frameworks Used:</b> <br>
@@ -81,21 +81,21 @@
 <hr>
 
 ### Project 4: <a href="https://github.com/sanctusjack/Project-4-ERA-Calculator">COMPSCI 250-402 Java ERA Calculator</a>
-<b>Javascript Calculator (Front-end Development):</b> <br>
-<i>Basic program utilizing the fundamentals of Javascript's ability to implement functionality to front-end web applications.</i>
+<b>Java program that calculates a given player's earned run average (E.R.A.) by user inputting custom values.</b> <br>
+<i>Basic program utilizing basic Java functions.</i>
 
 <b>Languages and Frameworks Used:</b> <br>
   ∙ Java <br>
 
   <b>Systems Used:</b> <br>
     ∙ Public class <br>
-    ∙ For loop <br>
-    ∙ User input (scanner class) 
+    ∙ import java.util.Scanner <br>
+    ∙ Initialization and declaration of variables (scanner class) 
     
 <hr>
 
 ### Project 5: <a href="https://github.com/sanctusjack/Project-3-Calculator">COMPSCI 250-402 Java Program 2</a>
-<b>Javascript Calculator(Front-end Development):</b> <br>
+<b>Javascript Calculator (Front-end Development):</b> <br>
 <i>Basic program utilizing the fundamentals of Javascript's ability to implement functionality to front-end web applications.</i>
 
 <b>Languages and Frameworks Used:</b> <br>
