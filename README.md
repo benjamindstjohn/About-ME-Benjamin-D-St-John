@@ -1,4 +1,4 @@
-# <a href="https://github.com/sanctusjack">Benjamin D. St. John</a>
+# <a href="https://github.com/sanctusjack">Benjamin (D.) St. John</a>
 <b>Investment Banking, Financial Analysis, and Software Engineering</b> <br>
 
 <p1>For all professional and business inquiries, <b>please contact:</b> <i>benjaminstjohn1@gmail.com</i></p1> <br>
@@ -7,7 +7,7 @@
 
 <hr>
 
-<h3>My Programming ToolKit</h3>
+<h2>My Programming ToolKit</h2>
     ❏ C++ <br>
     ❏ Python <br>
     ❏ Javascript <br>
@@ -21,7 +21,7 @@
     
 <hr>
 
-### Software Engineering Experience
+## Software Engineering Experience
 ### Project 1: <a href="https://github.com/sanctusjack/Project-1-Financial-Pulse">Financial Charting and News Application</a>
 <b>FinTech Web Application (Full-stack Development):</b> 
 <i>Website application designed to be a swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.</i>
@@ -54,13 +54,13 @@
   ∙ CSS 
 
   <b>Systems Used:</b> <br>
-    ∙ Cloud Computing for Data Storage. <br>
-    ∙ Machine Learning Algorithms for Training and Modeling Data. <br>
-    ∙ PostgreSQL Database for GIS, Text, Image, and Structured Datatype. <br>
-    ∙ HTML, CSS, and React for User-friendly GUI Design. <br>
-    ∙ Django & Python for Intelligent Backend. <br>
-    ∙ Javascript for Frontend Functionality. <br>
-    ∙ RESTful API Data Transfer.
+    ∙ Cloud Computing for Data Storage <br>
+    ∙ Machine Learning Algorithms for Training and Modeling Data <br>
+    ∙ PostgreSQL Database for GIS, Text, Image, and Structured Datatype <br>
+    ∙ HTML, CSS, and React for User-friendly GUI Design <br>
+    ∙ Django & Python for Intelligent Backend <br>
+    ∙ Javascript for Frontend Functionality <br>
+    ∙ RESTful API Data Transfer
 
 <hr>
 
@@ -74,8 +74,36 @@
   ∙ CSS
 
   <b>Systems Used:</b> <br>
-    ∙ Front-end development. <br>
-    ∙ JavaScript for Functionality. <br>
-    ∙ User-friendly GUI Design. 
+    ∙ Front-end development <br>
+    ∙ JavaScript for Functionality <br>
+    ∙ User-friendly GUI Design 
+    
+<hr>
+
+### Project 4: <a href="https://github.com/sanctusjack/Project-3-Calculator">COMPSCI 250-402 Java Program 1</a>
+<b>Javascript Calculator(Front-end Development):</b> <br>
+<i>Basic program utilizing the fundamentals of Javascript's ability to implement functionality to front-end web applications.</i>
+
+<b>Languages and Frameworks Used:</b> <br>
+  ∙ Java <br>
+
+  <b>Systems Used:</b> <br>
+    ∙ Public class <br>
+    ∙ For loop <br>
+    ∙ User input (scanner class) 
+    
+<hr>
+
+### Project 5: <a href="https://github.com/sanctusjack/Project-3-Calculator">COMPSCI 250-402 Java Program 2</a>
+<b>Javascript Calculator(Front-end Development):</b> <br>
+<i>Basic program utilizing the fundamentals of Javascript's ability to implement functionality to front-end web applications.</i>
+
+<b>Languages and Frameworks Used:</b> <br>
+  ∙ Java <br>
+
+  <b>Systems Used:</b> <br>
+    ∙ Public class <br>
+    ∙ Do-while loop <br>
+    ∙ User input (scanner class) 
     
 <hr>
