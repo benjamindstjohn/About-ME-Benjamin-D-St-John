@@ -1,7 +1,9 @@
 # <a href="https://github.com/sanctusjack">Benjamin D. St. John</a>
 <b>Investment Banking, Financial Analysis, and Software Engineering</b> <br>
 
-<p1>For all professional and business inquiries, <i>please contact: benjaminstjohn1@gmail.com</i></p1> <br>
+<p1>For all professional and business inquiries, <b>please contact:</b> <i>benjaminstjohn1@gmail.com</i></p1> <br>
+
+<p1>Connect with me on <a href="https://www.linkedin.com/in/benjamin-st-john-353a85278/"><i>LinkedIn</i></p1> <br>
 
 <hr>
 
@@ -14,12 +16,13 @@
     ❏ Django <br>
     ❏ React <br>
     ❏ HTML <br> 
-    ❏ CSS 
+    ❏ CSS <br>
+    ❏ PostgreSQL 
     
 <hr>
 
 #### Software Engineering Experience
-### <a href="https://github.com/sanctusjack/Project-1-Financial-Pulse">Project 1: Financial Pulse</a>
+### Project 1: <a href="https://github.com/sanctusjack/Project-1-Financial-Pulse">Financial Charting and News Application</a>
 <b>FinTech Web Application (Full-stack Development):</b> 
 <i>Website application designed to be a swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.</i>
 
@@ -36,7 +39,7 @@
 
 <hr>
 
-### <a href="https://github.com/sanctusjack/Project-2-Algo-Data-ML">Project 2: Capstone Project</a>
+### Project 2: <a href="https://github.com/sanctusjack/Project-2-Algo-Data-ML">Capstone Project</a>
 <b>Capstone Project (Full-stack Development)</b> <br>
  <i>Design and implement an intelligent backend server that effectively combines the local data storage and cloud resources to seamlessly execute statistical and machine learning algorithms. This integration aims to optimize data processing and analysis. The backend server will establish some pipelines connected to a user-friendly GUI and a RESTful API. These interfaces will allow users to navigate algorithms and data efficiently.</i>
 
@@ -61,7 +64,7 @@
 
 <hr>
 
-### <a href="https://github.com/sanctusjack/Project-3-Calculator">Project 3: Javascript Calculator</a>
+### Project 3: <a href="https://github.com/sanctusjack/Project-3-Calculator">JavaScript Calculator Application</a>
 <b>Javascript Calculator(Front-end Development):</b> <br>
 <i>Basic program utilizing the fundamentals of Javascript's ability to implement functionality to front-end web applications.</i>
 
