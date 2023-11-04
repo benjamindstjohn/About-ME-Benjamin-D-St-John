@@ -1,7 +1,7 @@
 # <a href="https://github.com/sanctusjack">Benjamin D. St. John</a>
 <b>Investment Banking, Financial Analysis, and Software Engineering</b> <br>
 
-<p1>For all professional and business inquiries, <i>please contact: bdstjohn@uwm.edu</i></p1> <br>
+<p1>For all professional and business inquiries, <i>please contact: benjaminstjohn1@gmail.com</i></p1> <br>
 
 <hr>
 
