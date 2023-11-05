@@ -1,5 +1,5 @@
 # <a href="https://github.com/sanctusjack">Benjamin (D.) St John</a>
-<b>Investment Banking, Financial Analysis, and Software Engineering</b> <br>
+<b>Investment Banking, Financial Analysis, Software Development, and Software Engineering</b> <br>
 
 <p1>For all professional and business inquiries, <b>please contact:</b> <i>benjaminstjohn1@gmail.com</i></p1> <br>
 
