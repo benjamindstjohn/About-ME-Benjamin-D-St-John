@@ -3,7 +3,7 @@
 
 <p1>For all professional and business inquiries, <b>please contact:</b> <i>benjaminstjohn1@gmail.com</i></p1> <br>
 
-<p1>Connect with me on <a href="https://www.linkedin.com/in/benjamin-st-john-353a85278/"><i>LinkedIn</i></p1> <br>
+<p1>Connect with me on <a href="https://www.linkedin.com/in/benjamin-st-john-353a85278/">LinkedIn</p1> <br>
 
 <hr>
 
