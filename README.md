@@ -22,7 +22,7 @@
 <hr>
 
 ## Software Engineering Experience
-### Project 1: <a href="https://github.com/sanctusjack/Project-1-Financial-Charting-News-Application">Financial Charting</a>
+### Project 1: <a href="https://github.com/sanctusjack/Project-1-Financial-Charting-News-Application"> Full-stack Financial Charting</a>
 <b>FinTech Web Application (Full-stack Development):</b> 
 <i>Website application designed to be a swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.</i>
 
@@ -39,7 +39,7 @@
 
 <hr>
 
-### Project 2: <a href="https://github.com/sanctusjack/Project-2-Algo-Data-ML">Capstone Project</a>
+### Project 2: <a href="https://github.com/sanctusjack/Project-2-Algo-Data-ML">Full-stack Capstone Project</a>
 <b>Capstone Project (Full-stack Development)</b> <br>
  <i>Design and implement an intelligent backend server that effectively combines the local data storage and cloud resources to seamlessly execute statistical and machine learning algorithms. This integration aims to optimize data processing and analysis. The backend server will establish some pipelines connected to a user-friendly GUI and a RESTful API. These interfaces will allow users to navigate algorithms and data efficiently.</i>
 
