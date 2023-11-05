@@ -80,7 +80,7 @@
     
 <hr>
 
-### Project 4: <a href="https://github.com/sanctusjack/Project-4-ERA-Calculator">Java E.R.A. Calculator Application</a>
+### Project 4: <a href="https://github.com/sanctusjack/Project-4-ERA-Calculator">Java ERA Computation</a>
 <b>E.R.A. Calculator</b> <br>
 <i>Java program that calculates a given player's earned run average (E.R.A.) by the user inputting custom values.</i>
 
@@ -94,7 +94,7 @@
     
 <hr>
 
-### Project 5: <a href="https://github.com/sanctusjack/Project-5-Area-Square-Footage">Java Surface Area and Square Footage Computation Application</a>
+### Project 5: <a href="https://github.com/sanctusjack/Project-5-Area-Square-Footage">Java Surface Area and Square Footage Operation</a>
 <b>Surface Area and Square Footage Computation</b> <br>
 <i>Java program that calculates the surface area of a room's floor, the combined surfacce area of all four walls in the room, and the total square footage of the room when assigned a specific length, width, and height.</i>
 
