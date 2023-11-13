@@ -1,9 +1,11 @@
 # <a href="https://github.com/sanctusjack">Benjamin (D.) St John</a>
-<b>Investment Banking, Financial Analysis, Software Development, and Software Engineering</b> <br>
+<b>Investment Banking, Applied Mathematics, Quantitative Financial Modeling, Financial Analysis, Software Development, Software Engineering, Machine Learning, and Data Science.</b> <br>
 
 <p1>For all professional and business inquiries, <b>please contact:</b> <i>benjaminstjohn1@gmail.com</i></p1> <br>
 
-<p1>Connect with me on <a href="https://www.linkedin.com/in/benjamin-st-john-353a85278/">LinkedIn</p1> <br>
+<p1>Connect with me on <a href="https://www.linkedin.com/in/benjamin-st-john-353a85278/"><i>LinkedIn</i></p1> <br>
+
+<p1>Connect with me on <a href="https://uwm.joinhandshake.com/stu/users/50904620"><i>Handshake</i></p1> <br>
 
 <hr>
 
@@ -12,7 +14,7 @@
     ❏ Python <br>
     ❏ Javascript <br>
     ❏ Java  <br>
-    ❏ SQL <br>
+    ❏ SQL Query <br>
     ❏ Django <br>
     ❏ React <br>
     ❏ HTML <br> 
@@ -64,7 +66,7 @@
 
 <hr>
 
-### Project 3: <a href="https://github.com/sanctusjack/Project-3-JavaScript-Calculator">JavaScript Calculator Application</a>
+### Project 3: <a href="https://github.com/sanctusjack/Project-3-JavaScript-Calculator">JavaScript Calculator</a>
 <b>Front-end Calculator Application (Front-end Development):</b> <br>
 <i>Basic program utilizing the fundamentals of Javascript's ability to implement functionality to front-end web applications.</i>
 
