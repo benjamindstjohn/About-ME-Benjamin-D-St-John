@@ -25,7 +25,7 @@
 
 ## Software Engineering Experience
 ### Project 1: <a href="https://github.com/sanctusjack/Project-1-Financial-Charting-News-Application"> Full-stack Financial Charting</a>
-<b>FinTech Web Application (Full-stack Development):</b> 
+<b>FinTech Web Application (Full-stack Development):</b> <br>
 <i>Website application designed to be a swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.</i>
 
 <h4>Languages and Frameworks Used</h4>
@@ -42,7 +42,7 @@
 <hr>
 
 ### Project 2: <a href="https://github.com/sanctusjack/Project-2-Algo-Data-ML">Full-stack Capstone Project</a>
-<b>Capstone Project (Full-stack Development)</b> <br>
+<b>Capstone Project (Full-stack Development):</b> <br>
  <i>Design and implement an intelligent backend server that effectively combines the local data storage and cloud resources to seamlessly execute statistical and machine learning algorithms. This integration aims to optimize data processing and analysis. The backend server will establish some pipelines connected to a user-friendly GUI and a RESTful API. These interfaces will allow users to navigate algorithms and data efficiently.</i>
 
  <b>Languages & Frameworks Used:</b> <br>
@@ -83,7 +83,7 @@
 <hr>
 
 ### Project 4: <a href="https://github.com/sanctusjack/Project-4-ERA-Calculator">Java ERA Computation</a>
-<b>E.R.A. Calculator</b> <br>
+<b>E.R.A. Calculator:</b> <br>
 <i>Java program that calculates a given player's earned run average (E.R.A.) by the user inputting custom values.</i>
 
 <b>Languages and Frameworks Used:</b> <br>
@@ -97,7 +97,7 @@
 <hr>
 
 ### Project 5: <a href="https://github.com/sanctusjack/Project-5-Area-Square-Footage">Java Surface Area and Square Footage Operation</a>
-<b>Surface Area and Square Footage Computation</b> <br>
+<b>Surface Area and Square Footage Computation:</b> <br>
 <i>Java program that calculates the surface area of a room's floor, the combined surfacce area of all four walls in the room, and the total square footage of the room when assigned a specific length, width, and height.</i>
 
 <b>Languages and Frameworks Used:</b> <br>
