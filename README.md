@@ -90,7 +90,7 @@
   ∙ Initialization and declaration of variables (scanner class) 
 
   <b>Systems Used:</b> <br>
-    ∙ <b><i>N/A</i></b>
+    ∙ N/A
     
 <hr>
 
@@ -105,6 +105,6 @@
   ∙ Double-precision 64-bit IEEE 754 floating point primitive data type
 
   <b>Systems Used:</b> <br>
-    ∙ <b><i>N/A</i></b>
+    ∙ N/A
     
 <hr>
