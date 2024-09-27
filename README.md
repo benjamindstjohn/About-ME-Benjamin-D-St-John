@@ -19,6 +19,7 @@
     ❏ React <br>
     ❏ HTML <br> 
     ❏ CSS <br>
+    ❏ SQL <br>
     ❏ PostgreSQL 
     
 <hr>
