@@ -1,5 +1,5 @@
 # <a href="https://github.com/benjamindstjohn">Benjamin D. St John</a>
-<b>Computer Science, Applied Mathematics, Quantitative Analysis, Software Engineering, Machine Learning, and Data Science.</b> <br>
+<b><i>Skills: </i></b><b>Computer Science, Applied Mathematics, Quantitative Analysis, Software Engineering, Machine Learning, and Data Science.</b> <br>
 
 <p1>For all professional and business inquiries, <b>please contact:</b> <i>benjaminstjohn1@gmail.com</i></p1> <br>
 
@@ -26,7 +26,7 @@
 ## Software Engineering Experience
 ### Project 1: <a href="https://github.com/sanctusjack/Project-1-Financial-Charting-News-Application"> Full-stack Financial Charting</a>
 <b>FinTech Web Application (Full-stack Development):</b> <br>
-<i>Website application designed to be a swiss-army knife for finance students and professionals by facillitating a nexus for up-to-date economic updates and stock charting.</i>
+<i>Website application designed to be a Swiss Army Knife for finance students and professionals by facilitating a nexus for up-to-date economic updates and stock charting.</i>
 
 <h4>Languages and Frameworks Used</h4>
     ∙ Javascript <br>
@@ -43,7 +43,7 @@
 
 ### Project 2: <a href="https://github.com/sanctusjack/Project-2-Algo-Data-ML">Full-stack Capstone Project</a>
 <b>Capstone Project (Full-stack Development):</b> <br>
- <i>Design and implement an intelligent backend server that effectively combines the local data storage and cloud resources to seamlessly execute statistical and machine learning algorithms. This integration aims to optimize data processing and analysis. The backend server will establish some pipelines connected to a user-friendly GUI and a RESTful API. These interfaces will allow users to navigate algorithms and data efficiently.</i>
+ <i>Design and implement an intelligent backend server that effectively combines local data storage and cloud resources to execute statistical and machine learning algorithms seamlessly. This integration aims to optimize data processing and analysis. The backend server will establish pipelines connected to a user-friendly GUI and RESTful API. These interfaces will allow users to navigate algorithms and data efficiently.</i>
 
  <b>Languages & Frameworks Used:</b> <br>
   ∙ C++ <br>
