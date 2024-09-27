@@ -1,4 +1,4 @@
-# <a href="https://github.com/sanctusjack">Benjamin (D.) St John</a>
+# <a href="https://github.com/benjamindstjohn">Benjamin D. St John</a>
 <b>Computer Science, Applied Mathematics, Quantitative Analysis, Software Engineering, Machine Learning, and Data Science.</b> <br>
 
 <p1>For all professional and business inquiries, <b>please contact:</b> <i>benjaminstjohn1@gmail.com</i></p1> <br>
