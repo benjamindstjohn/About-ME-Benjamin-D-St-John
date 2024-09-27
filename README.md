@@ -14,7 +14,6 @@
     ❏ Python <br>
     ❏ Javascript <br>
     ❏ Java  <br>
-    ❏ SQL Query <br>
     ❏ Django <br>
     ❏ React <br>
     ❏ HTML <br> 
