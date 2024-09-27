@@ -1,5 +1,5 @@
 # <a href="https://github.com/sanctusjack">Benjamin (D.) St John</a>
-<b>Investment Banking, Applied Mathematics, Quantitative Financial Modeling, Financial Analysis, Software Development, Software Engineering, Machine Learning, and Data Science.</b> <br>
+<b>Computer Science, Applied Mathematics, Quantitative Analysis, Software Engineering, Machine Learning, and Data Science.</b> <br>
 
 <p1>For all professional and business inquiries, <b>please contact:</b> <i>benjaminstjohn1@gmail.com</i></p1> <br>
 
